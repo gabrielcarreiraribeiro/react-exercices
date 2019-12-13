@@ -24,9 +24,6 @@ import Form from './components/Form'
 //   </div>
 // , document.getElementById('root'))
 
-/**
- * TEST
- */
 
 ReactDOM.render(
   <Form />
